@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-gd component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-gd"
+name = "sigmaos_archlinux_gd"
 path = "src/lib.rs"
